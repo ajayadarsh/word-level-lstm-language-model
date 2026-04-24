@@ -1,0 +1,15 @@
+{
+  "seq_len": 50,
+  "batch_size": 64,
+  "emb_dim": 128,
+  "rnn_units": 256,
+  "num_layers": 1,
+  "dropout": 0.4,
+  "lr": 0.0003,
+  "epochs_requested": 25,
+  "epochs_trained": 4,
+  "min_freq": 1,
+  "max_vocab": 12000,
+  "add_eos": true,
+  "train_frac": 0.9
+}
