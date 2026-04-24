@@ -86,9 +86,7 @@ The model is built using TensorFlow/Keras and consists of:
 ### Key Insight:
 This model learns **local patterns and style**, while large language models understand **deep context and semantics** due to scale.
 
----
-
-##️ How to Run
+## How to Run
 
 ### Clone the repository
 
