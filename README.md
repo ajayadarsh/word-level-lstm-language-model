@@ -203,7 +203,7 @@ This project demonstrates how relatively small recurrent neural networks can sti
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
